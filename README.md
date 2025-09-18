@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="gXOsnDmGLazvFofG91QKylE8atoET75K9pOY2m6NmvQ" />
-
 ---
 title: "香港独立服务器租用详情：价格、配置与线路稳定性全面解析"
 keywords: "香港独立服务器租用,香港cn2服务器价格,香港服务器配置,香港服务器带宽,香港服务器稳定线路"
