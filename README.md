@@ -9,13 +9,19 @@ description: "香港独立服务器租用优势全解析：高性价比价格，
 
 <p align="center">
   <a href="https://www.hostifyx.com/zh/hk-server/" target="_blank">
-    <img src="https://img.shields.io/badge/官网-HostifyX-1E90FF?style=for-the-badge&logo=website" alt="官网">
+    <img src="https://img.shields.io/badge/官网-HostifyX-1062fe?style=for-the-badge&logo=googlechrome&logoColor=white" 
+         alt="官网" width="200" height="60">
   </a>
   &nbsp;
   <a href="https://t.me/HostifyX_Aaron" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@HostifyX_Aaron-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-HostifyX__Aaron-009aff?style=for-the-badge&logo=telegram&logoColor=white" 
+         alt="Telegram" width="330" height="60">
   </a>
 </p>
+
+
+
+
 
 ---
 
